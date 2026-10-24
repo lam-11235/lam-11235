@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Lama Abdullah 👋
 
-<!--
-**lam-11235/lam-11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI student exploring software development, web design, and practical programming projects.
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Studying Artificial Intelligence
+- 🐍 Programming with Python, C++, and Java
+- 🌐 Familiar with HTML, CSS, and JavaScript
+- 🗄️ Familiar with SQL and database fundamentals
+- 💻 Exploring web technologies and building practical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Programming:** Python, C++, Java, SQL
+- **Web:** HTML, CSS, JavaScript fundamentals
+- **Core Concepts:** Object-Oriented Programming (OOP), Algorithms
+- **Tools:** GitHub, VS Code
+
